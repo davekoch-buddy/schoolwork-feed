@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-29T16:28:32-04:00",
+ "generatedAt": "2026-10-29T16:42:18-04:00",
  "items": [
   {
    "assignedDate": "2026-10-26",
@@ -195,6 +195,37 @@
    "subject": "English",
    "teacherPost": "Vocabulary Page 23 (Word Wisdom)",
    "title": "Vocabulary Page 23 (Word Wisdom)"
+  },
+  {
+   "assignedDate": "2026-10-29",
+   "child": "max",
+   "className": "6th Grade English 60-2",
+   "details": "Read the short story by Liliana Heker (in the blue packet, or the Google Doc Ms. Gallagher attached in Google Classroom) and annotate for theme. Materials: a Google Docs link was attached to the Classroom post. Due Friday, October 30.",
+   "dueDate": "2026-10-30",
+   "firstSeenAt": "2026-10-29T16:42:18-04:00",
+   "id": "seed-max-hw-stolen-party-2026-10-30",
+   "kind": "homework",
+   "packet": null,
+   "source": "classroom",
+   "subject": "English",
+   "teacherPost": "Read the short story 'The Stolen Party' by Liliana Heker found in the blue packet. Please annotate for theme.",
+   "title": "Read 'The Stolen Party' by Liliana Heker and annotate for theme"
+  },
+  {
+   "assignedDate": "2026-10-29",
+   "child": "max",
+   "className": "History 60-1",
+   "details": "Read the section in the Ancient Greece packet and answer the questions in complete sentences on a separate sheet of loose-leaf. Teacher: Mr. Knehr. Due Monday, November 2.",
+   "dueDate": "2026-11-02",
+   "firstSeenAt": "2026-10-29T16:42:18-04:00",
+   "id": "seed-max-hw-greek-city-states-2026-11-02",
+   "kind": "homework",
+   "materialsStatus": "none",
+   "packet": null,
+   "source": "classroom",
+   "subject": "History",
+   "teacherPost": "Read this section in your 'Ancient Greece' packet and answer the questions in complete sentences on a separate sheet of loose leaf.",
+   "title": "The Greek City-States"
   }
  ],
  "schemaVersion": 1
