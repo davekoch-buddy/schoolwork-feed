@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-29T14:25:00-04:00",
+ "generatedAt": "2026-10-29T15:21:08-04:00",
  "items": [
   {
    "assignedDate": "2026-10-26",
@@ -73,7 +73,16 @@
    "firstSeenAt": "2026-10-26T09:00:00-04:00",
    "id": "gc-ODk1Mjc2OTk4OTk4",
    "kind": "test",
-   "packet": null,
+   "packet": {
+    "files": [
+     {
+      "name": "UNIT 1.pdf",
+      "url": "https://davekoch-buddy.github.io/schoolwork-feed/packets/max-french-quiz-2026-11-05/UNIT%201.pdf"
+     }
+    ],
+    "zipURL": null,
+    "combinedURL": "https://davekoch-buddy.github.io/schoolwork-feed/packets/max-french-quiz-2026-11-05/combined.pdf"
+   },
    "source": "classroom",
    "subject": "French",
    "teacherPost": "QUIZ UNIT 1 L1A",
