@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-29T16:53:31-04:00",
+ "generatedAt": "2026-10-29T17:10:00-04:00",
  "items": [
   {
    "assignedDate": "2026-10-26",
@@ -99,6 +99,7 @@
    "firstSeenAt": "2026-10-22T09:00:00-04:00",
    "id": "gc-ODkzNjQ1NTYzMDU1",
    "kind": "project",
+   "materialsStatus": "none",
    "packet": null,
    "source": "classroom",
    "subject": "English",
@@ -114,6 +115,7 @@
    "firstSeenAt": "2026-10-27T13:55:00-04:00",
    "id": "seed-max-hw-nature-myth-bring-2026-10-28",
    "kind": "homework",
+   "materialsStatus": "none",
    "packet": null,
    "source": "classroom",
    "subject": "English",
@@ -129,6 +131,7 @@
    "firstSeenAt": "2026-10-27T13:57:00-04:00",
    "id": "seed-sam-hw-restaurant-review-2026-11-02",
    "kind": "homework",
+   "materialsStatus": "none",
    "packet": null,
    "source": "email",
    "subject": "Writing",
