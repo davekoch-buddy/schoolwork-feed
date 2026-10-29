@@ -1,6 +1,5 @@
 {
- "feedNote": "Seed feed built from the Oct 27, 2026 evening Classroom snapshot (signed in as Max) plus one Sam item from a teacher email. IDs prefixed 'seed-' are stand-ins: the production feed MUST use the stable Google Classroom item ID as 'id' (see FEED.md dedupe rule).",
- "generatedAt": "2026-10-28T20:52:00-04:00",
+ "generatedAt": "2026-10-28T21:02:00-04:00",
  "items": [
   {
    "assignedDate": "2026-10-26",
@@ -9,7 +8,7 @@
    "details": "FDP greater than 100% and less than 1%; compare and order FDP; ratios, rates and unit rates; converting measures (time and distance, American). Teacher: Mr. Balzano.",
    "dueDate": "2026-10-29",
    "firstSeenAt": "2026-10-26T09:00:00-04:00",
-   "id": "seed-max-math-quiz-2026-10-29",
+   "id": "gc-ODk1NTc3MDkzODM5",
    "kind": "test",
    "packet": {
     "files": [
@@ -53,10 +52,10 @@
    "assignedDate": "2026-10-23",
    "child": "max",
    "className": "History 60-1",
-   "details": "6th Grade History Test. Announced in the GVS weekly newsletter 'Next Week at GVS: October 26-30' (sent Oct 23, 2026) - NOT posted in Google Classroom. Teacher: Mr. Knehr. Study materials in Classroom: Ancient Greece unit (Alexander The Great, Golden Age).",
+   "details": "6th Grade History Test. Announced in the GVS weekly newsletter 'Next Week at GVS: October 26-30' (sent Oct 23, 2026) - NOT posted as a Classroom assignment. Teacher: Mr. Knehr. Classroom study materials: Ancient Greece Terms and People (posted Oct 28), Alexander The Great (Oct 27), Golden Age of Ancient Athens, Ancient Greece Review Sheet, Persian Wars and Peloponnesian War Notes.",
    "dueDate": "2026-10-29",
    "firstSeenAt": "2026-10-28T10:12:00-04:00",
-   "id": "seed-max-history-test-2026-10-29",
+   "id": "email-1a1686b2810c9202-history-test-max",
    "kind": "test",
    "packet": null,
    "source": "email",
@@ -71,7 +70,7 @@
    "details": "QUIZ UNIT 1 L1A. Teacher: Madame Sharbani.",
    "dueDate": "2026-11-05",
    "firstSeenAt": "2026-10-26T09:00:00-04:00",
-   "id": "seed-max-french-quiz-2026-11-05",
+   "id": "gc-ODk1Mjc2OTk4OTk4",
    "kind": "test",
    "packet": null,
    "source": "classroom",
@@ -86,7 +85,7 @@
    "details": "Bring a printed MLA-formatted copy, the rough draft, and the peer assessment. Self-assessment is done in class. Teacher: Ms. Gallagher.",
    "dueDate": "2026-10-28",
    "firstSeenAt": "2026-10-22T09:00:00-04:00",
-   "id": "seed-max-nature-myth-final-2026-10-28",
+   "id": "gc-ODkzNjQ1NTYzMDU1",
    "kind": "project",
    "packet": null,
    "source": "classroom",
@@ -168,6 +167,21 @@
    "subject": "School",
    "teacherPost": "GVS Main Office newsletter, Oct 23, 2026: 'Friday, October 30 - Fall Festival'",
    "title": "Fall Festival"
+  },
+  {
+   "assignedDate": "2026-10-28",
+   "child": "max",
+   "className": "6th Grade English 60-2",
+   "details": "Vocabulary Page 23 (Word Wisdom). Posted Oct 28, 12:09 PM by Ms. Gallagher, 10 points.",
+   "dueDate": "2026-10-29",
+   "firstSeenAt": "2026-10-28T21:02:00-04:00",
+   "id": "gc-ODk2Mzc3NTcxOTky",
+   "kind": "homework",
+   "packet": null,
+   "source": "classroom",
+   "subject": "English",
+   "teacherPost": "Vocabulary Page 23 (Word Wisdom)",
+   "title": "Vocabulary Page 23 (Word Wisdom)"
   }
  ],
  "schemaVersion": 1
