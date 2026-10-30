@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-30T15:10:10-04:00",
+ "generatedAt": "2026-10-30T15:24:51-04:00",
  "items": [
   {
    "assignedDate": "2026-10-26",
@@ -198,22 +198,6 @@
    "subject": "English",
    "teacherPost": "Vocabulary Page 23 (Word Wisdom)",
    "title": "Vocabulary Page 23 (Word Wisdom)"
-  },
-  {
-   "assignedDate": "2026-10-30",
-   "child": "max",
-   "className": "6th Grade English 60-2",
-   "details": "Prep for the argumentative essay: brainstorm and decide a direction or claim for the argument. 10 points. Teacher: Ms. Gallagher.",
-   "dueDate": "2026-11-03",
-   "firstSeenAt": "2026-10-30T15:10:10-04:00",
-   "id": "seed-max-hw-argument-direction-brainstorm-2026-11-03",
-   "kind": "homework",
-   "materialsStatus": "none",
-   "packet": null,
-   "source": "classroom",
-   "subject": "English",
-   "teacherPost": "Argument Direction Brainstorm",
-   "title": "Argument Direction Brainstorm"
   }
  ],
  "schemaVersion": 1
