@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-30T15:24:51-04:00",
+ "generatedAt": "2026-10-30T16:28:52-04:00",
  "items": [
   {
    "assignedDate": "2026-10-26",
@@ -198,6 +198,66 @@
    "subject": "English",
    "teacherPost": "Vocabulary Page 23 (Word Wisdom)",
    "title": "Vocabulary Page 23 (Word Wisdom)"
+  },
+  {
+   "id": "seed-max-hw-interpreting-graphs-2026-11-02",
+   "child": "max",
+   "kind": "homework",
+   "subject": "Math",
+   "className": "6H Balzano Math",
+   "title": "Homework 10/30 - Interpreting Graphs",
+   "details": "Attached are 5 pages of graphs. Answer the questions as best you can. Teacher: Mr. Balzano. Attachment in Google Classroom: Interpreting Graphs HW 1030.pdf (1 file).",
+   "assignedDate": "2026-10-30",
+   "dueDate": "2026-11-02",
+   "firstSeenAt": "2026-10-30T16:28:52-04:00",
+   "source": "classroom",
+   "teacherPost": "Attached are 5 pages of graphs. Answer the questions as best you can",
+   "packet": null
+  },
+  {
+   "id": "seed-max-hw-weekly-review-writing-prompt-act-2026-11-02",
+   "child": "max",
+   "kind": "homework",
+   "subject": "English",
+   "className": "6th Grade English 60-2",
+   "title": "Weekly Review Writing Prompt Act",
+   "details": "100 points. Teacher: Ms. Gallagher (Jennifer Gallagher). Attachments in Google Classroom: Weekly Review - Writing prompt - Act I.pdf; Weekly Review - Writing prompt - study sheet - Act I.pdf.",
+   "assignedDate": "2026-10-30",
+   "dueDate": "2026-11-02",
+   "firstSeenAt": "2026-10-30T16:28:52-04:00",
+   "source": "classroom",
+   "teacherPost": "Please write a response to one of the questions you see on the document. You do not need to copy the questions. Be sure to answer the prompt as fully as you can.",
+   "packet": null
+  },
+  {
+   "id": "seed-max-hw-weekly-review-act-2026-11-02",
+   "child": "max",
+   "kind": "homework",
+   "subject": "English",
+   "className": "6th Grade English 60-2",
+   "title": "Weekly Review Act",
+   "details": "100 points. Teacher: Ms. Gallagher (Jennifer Gallagher). Attachments in Google Classroom: Weekly Review - Act I.pdf; Weekly Review - study sheet - Act I.pdf.",
+   "assignedDate": "2026-10-30",
+   "dueDate": "2026-11-02",
+   "firstSeenAt": "2026-10-30T16:28:52-04:00",
+   "source": "classroom",
+   "teacherPost": "Act I quiz on Tuesday. Please review the packet carefully.",
+   "packet": null
+  },
+  {
+   "id": "seed-max-hw-finish-pages-56-58-2026-11-02",
+   "child": "max",
+   "kind": "homework",
+   "subject": "Science",
+   "className": "Science 60-2",
+   "title": "finish pages 56-58 tonight",
+   "details": "Please finish pages 56-58. Teacher: Mr. Knehr. To-do lists due Nov 2; the detail page shows no due date - Nov 2 is also the default due date (day after Fri Oct 30 assignment, rolled past the weekend to Monday). The detail page shows the class's standing Science Dimensions eBook Drive links (Modules F, G, H) - no item-specific handout verified.",
+   "assignedDate": "2026-10-30",
+   "dueDate": "2026-11-02",
+   "firstSeenAt": "2026-10-30T16:28:52-04:00",
+   "source": "classroom",
+   "teacherPost": "Please finish pages 56-58",
+   "packet": null
   }
  ],
  "schemaVersion": 1
