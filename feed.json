@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-30T16:39:01-04:00",
+ "generatedAt": "2026-10-30T18:04:00-04:00",
  "items": [
   {
    "assignedDate": "2026-10-26",
@@ -198,6 +198,22 @@
    "subject": "English",
    "teacherPost": "Vocabulary Page 23 (Word Wisdom)",
    "title": "Vocabulary Page 23 (Word Wisdom)"
+  },
+  {
+   "assignedDate": "2026-10-30",
+   "child": "max",
+   "className": "6th Grade English 60-2",
+   "details": "Vocabulary Page 25 (Word Wisdom). Posted Oct 30, 5:42 PM by Ms. Gallagher, 10 points. Teacher note: Study for vocabulary test - Wednesday, November 4th.",
+   "dueDate": "2026-11-02",
+   "firstSeenAt": "2026-10-30T18:04:00-04:00",
+   "id": "gc-ODk2ODk3NjYxMzY0",
+   "kind": "homework",
+   "materialsStatus": "none",
+   "packet": null,
+   "source": "classroom",
+   "subject": "English",
+   "teacherPost": "Study for vocabulary test - Wednesday, November 4th.",
+   "title": "Vocabulary Page 25 (Word Wisdom)"
   }
  ],
  "schemaVersion": 1
