@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-30T18:04:00-04:00",
+ "generatedAt": "2026-10-30T20:54:00-04:00",
  "items": [
   {
    "assignedDate": "2026-10-26",
@@ -214,6 +214,81 @@
    "subject": "English",
    "teacherPost": "Study for vocabulary test - Wednesday, November 4th.",
    "title": "Vocabulary Page 25 (Word Wisdom)"
+  },
+  {
+   "assignedDate": "2026-10-30",
+   "child": "max",
+   "className": "6th Grade English 60-2",
+   "details": "6th Grade English Vocabulary, Unit 1 Assessment. Announced in the GVS weekly newsletter 'Next Week at GVS: November 2-6' (sent Oct 30, 2026). Ms. Gallagher's Vocabulary Page 25 post in Google Classroom also notes the test for Wednesday, November 4th.",
+   "dueDate": "2026-11-04",
+   "firstSeenAt": "2026-10-30T20:54:00-04:00",
+   "id": "email-1a18c77c46cf41ba-vocabulary-test-max",
+   "kind": "test",
+   "packet": null,
+   "source": "email",
+   "subject": "English",
+   "teacherPost": "GVS Main Office newsletter, Oct 30, 2026: 'Wednesday, November 4 - 6th Grade English Vocabulary, Unit 1 Assessment'",
+   "title": "Vocabulary - Unit 1 Assessment"
+  },
+  {
+   "assignedDate": "2026-10-30",
+   "child": "max",
+   "className": "Green Vale School",
+   "details": "Thanksgiving Food Drive begins Monday, November 2. From the GVS weekly newsletter 'Next Week at GVS: November 2-6' (Oct 30, 2026).",
+   "dueDate": "2026-11-02",
+   "firstSeenAt": "2026-10-30T20:54:00-04:00",
+   "id": "email-1a18c77c46cf41ba-food-drive-max",
+   "kind": "notice",
+   "packet": null,
+   "source": "email",
+   "subject": "School",
+   "teacherPost": "GVS Main Office newsletter, Oct 30, 2026: 'Monday, November 2 - Thanksgiving Food Drive begins'",
+   "title": "Thanksgiving Food Drive begins"
+  },
+  {
+   "assignedDate": "2026-10-30",
+   "child": "sam",
+   "className": "Green Vale School",
+   "details": "Thanksgiving Food Drive begins Monday, November 2. From the GVS weekly newsletter 'Next Week at GVS: November 2-6' (Oct 30, 2026).",
+   "dueDate": "2026-11-02",
+   "firstSeenAt": "2026-10-30T20:54:00-04:00",
+   "id": "email-1a18c77c46cf41ba-food-drive-sam",
+   "kind": "notice",
+   "packet": null,
+   "source": "email",
+   "subject": "School",
+   "teacherPost": "GVS Main Office newsletter, Oct 30, 2026: 'Monday, November 2 - Thanksgiving Food Drive begins'",
+   "title": "Thanksgiving Food Drive begins"
+  },
+  {
+   "assignedDate": "2026-10-30",
+   "child": "max",
+   "className": "Green Vale School",
+   "details": "Parent-Teacher Conference Day on Friday, November 6 - no classes. Child care available 8 AM-3:30 PM for children whose parents are attending conferences, to cover conference time only. From the GVS weekly newsletter 'Next Week at GVS: November 2-6' (Oct 30, 2026).",
+   "dueDate": "2026-11-06",
+   "firstSeenAt": "2026-10-30T20:54:00-04:00",
+   "id": "email-1a18c77c46cf41ba-pt-conference-day-max",
+   "kind": "notice",
+   "packet": null,
+   "source": "email",
+   "subject": "School",
+   "teacherPost": "GVS Main Office newsletter, Oct 30, 2026: 'Friday, November 6 - Parent-Teacher Conference Day (No Classes)'",
+   "title": "Parent-Teacher Conference Day - No Classes"
+  },
+  {
+   "assignedDate": "2026-10-30",
+   "child": "sam",
+   "className": "Green Vale School",
+   "details": "Parent-Teacher Conference Day on Friday, November 6 - no classes. Child care available 8 AM-3:30 PM for children whose parents are attending conferences, to cover conference time only. From the GVS weekly newsletter 'Next Week at GVS: November 2-6' (Oct 30, 2026).",
+   "dueDate": "2026-11-06",
+   "firstSeenAt": "2026-10-30T20:54:00-04:00",
+   "id": "email-1a18c77c46cf41ba-pt-conference-day-sam",
+   "kind": "notice",
+   "packet": null,
+   "source": "email",
+   "subject": "School",
+   "teacherPost": "GVS Main Office newsletter, Oct 30, 2026: 'Friday, November 6 - Parent-Teacher Conference Day (No Classes)'",
+   "title": "Parent-Teacher Conference Day - No Classes"
   }
  ],
  "schemaVersion": 1
